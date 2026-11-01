@@ -1,0 +1,1 @@
+drink = ["beer","ginger","wasinowo"]
