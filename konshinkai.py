@@ -1,6 +1,6 @@
 times = int(input("何杯目ですか？: "))
 
-drinks = ["ビール", "ビール", "ビール", "レモンサワー", "レモンサワー"]
+drinks = ["ビール", "ビール", "ビール", "レモンサワー", "鷲の尾"]
 
 times_to_key = times - 1
 final_drink = len(drinks)-1
